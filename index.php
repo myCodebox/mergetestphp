@@ -1,13 +1,18 @@
 <?php
 
-function writeMsg() {
-    echo "Hello world!";
+function testfunc6() {
+    return 'test';
+}
+
+
+function writeMsg2() {
+    echo "Hello Test!";
 }
     
 writeMsg();
 
 echo 'Hello';
 
-function testfunc() {
+function testfunc6() {
     return 'test';
 }
