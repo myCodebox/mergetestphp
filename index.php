@@ -4,4 +4,4 @@ function writeMsg() {
     echo "Hello world!";
 }
     
-writeMsg(); // call the function now
+writeMsg(); // call the function
