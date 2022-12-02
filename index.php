@@ -1,7 +1,7 @@
 <?php
 
-function writeMsg2() {
+function writeMsg1() {
     echo "Hello Test!";
 }
     
-writeMsg2();
+writeMsg1();
