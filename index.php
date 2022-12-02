@@ -1,7 +1,7 @@
 <?php
 
 function writeMsg2() {
-    echo "Hello Test!";
+    echo "Servus Welt!";
 }
     
 writeMsg2();
