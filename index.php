@@ -1,7 +1,12 @@
 <?php
 
-function writeMsg2() {
-    echo "Hello world!";
+function testfunc6() {
+    return 'test';
+}
+
+
+function writeMsg22() {
+    echo "Hello Test!";
 }
 
 function testfunc() {
