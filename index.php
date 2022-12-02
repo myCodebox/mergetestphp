@@ -5,3 +5,8 @@ function writeMsg() {
 }
     
 writeMsg(); // call the function
+echo 'Hello';
+
+function testfunc() {
+    return 'test';
+}
